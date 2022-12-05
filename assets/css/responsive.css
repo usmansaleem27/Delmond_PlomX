@@ -2,8 +2,6 @@
     #profile_scn .tabpane_content {
         border-left: none;
     }
-}
-@media only screen and (max-width:556px){
     #tab_pane_content_sidebar{
         display: flex;
     }
